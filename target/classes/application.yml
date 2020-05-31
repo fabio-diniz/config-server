@@ -1,0 +1,9 @@
+server:
+  port: 9090
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:fabiocdiniz/task-configs.git
