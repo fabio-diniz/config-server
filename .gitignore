@@ -1,3 +1,5 @@
 **/target
-**/idea
-.idea
+*.idea
+*.iml
+docker-run.sh
+gerar-chave-ssh-github.sh
